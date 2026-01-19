@@ -1,3 +1,4 @@
+<img width="1835" height="930" alt="IPL Dashboard" src="https://github.com/user-attachments/assets/57ed04ce-98ed-4204-8c50-ac61e59fd0db" />
 # IPL Tableau Dashboard
 
 # Project Overview
